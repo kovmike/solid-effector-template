@@ -16,6 +16,6 @@
   "dependencies": {
     "effector": "^22.3.0",
     "effector-solid": "^0.22.6",
-    "solid-js": "^1.5.1"
+    "solid-js": "^1.5.7"
   }
 }
